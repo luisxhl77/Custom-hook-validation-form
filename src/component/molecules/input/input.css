@@ -1,0 +1,24 @@
+.input{
+    display: flex;
+    flex-direction: column;
+}
+.input-label{
+    margin: 10px 0px;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.input-text{
+    height: 30px;
+    outline: none;
+    padding: 5px 20px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    border-style: none;
+}
+.input-error{
+    margin: 5px 0px;
+    color: #a32727;
+}

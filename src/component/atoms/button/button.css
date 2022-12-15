@@ -1,0 +1,14 @@
+.button{
+    width: 270px;
+    height: 30px;
+    padding: 5px 0px 20px;
+    margin: 20px 0px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    border-color: transparent;
+    text-transform: uppercase;
+    background-color: #5757c9;
+}
